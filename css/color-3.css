@@ -1,0 +1,16 @@
+:root {
+  --poppins: "Poppins", sans-serif;
+  --sans: "Open Sans", sans-serif;
+  --lightblue: rgb(240, 247, 248);
+  --black: #111;
+  --lightgrey: rgb(230, 129, 129);
+  --blue: rgb(190, 12, 161);
+  --transition: all 0.5s ease;
+  --darkblue: rgb(248, 6, 139);
+  --box-shadow: 3px 3px 3px #d0d0d0, -3px -3px 3px #f8f8f8;
+  --background: linear-gradient(to right top, #df65d5, #af34a5);
+  --title: #420e31;
+  --subtitle: #420e39;
+  --glowtitle: #f40353;
+  --previewShadow: #f1a1eb;
+}
